@@ -11,4 +11,8 @@ git add "file.txt"
 git commit -m "Mi comentario"
 git push
 
+#Actualizar
+
+git pull
+
 #listo
