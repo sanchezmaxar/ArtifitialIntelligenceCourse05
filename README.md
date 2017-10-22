@@ -2,7 +2,7 @@
 Programas del curso de inteligencia artificial grupo 05
 Este repositorio tiene como objetivo, juntar y organizar mejor los programas que se van a entregar para la materia de Inteligencia Artificial de la Facultad de Ingenieria de la UNAM grupo 5. Profesor: Stalin Muñoz
 
-#Lista de programas que se deberan entregar
+### Lista de programas que se deberan entregar
 
 1.-  DFS <br />
 2.-  BFS <br />
@@ -20,13 +20,13 @@ Este repositorio tiene como objetivo, juntar y organizar mejor los programas que
 14.- WALKSAT <br />
 15.- DPLL <br />
 
-#Lista de programas que ya estan listos para entregar
+### Lista de programas que ya estan listos para entregar
 
 13.- GSAT <br />
 14.- WALKSAT <br />
 15.- DPLL <br />
 
-#Lista de programas pendientes
+### Lista de programas pendientes
 
 1.-  DFS <br />
 2.-  BFS <br />

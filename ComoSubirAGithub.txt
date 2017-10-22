@@ -9,10 +9,15 @@ git clone https://github.com/sanchezmaxar/ArtifitialIntelligenceCourse05
 
 git add "file.txt"
 git commit -m "Mi comentario"
-git push
 
 #Actualizar
 
-git pull
+git push
+git pull	
+
+#como borrar
+
+git rm  archivo.txt
+git rm -r directorio
 
 #listo
