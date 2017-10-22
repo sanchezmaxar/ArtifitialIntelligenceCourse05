@@ -4,39 +4,39 @@ Este repositorio tiene como objetivo, juntar y organizar mejor los programas que
 
 #Lista de programas que se deberan entregar
 
-*1.-  DFS
-*2.-  BFS
-*3.-  BDS
-*4.-  GBFS
-*5.-  DLS
-*6.-  DFBB
-*7.-  A*
-*8.-  IDA*
-*9.-  ID
-*10.- SA(Agente viajero)
-*11.- GA(aplicación)
-*12.- Murcielagos
-*13.- GSAT
-*14.- WALKSAT
-*15.- DPLL
+1.-  DFS <br />
+2.-  BFS <br />
+3.-  BDS <br />
+4.-  GBFS <br />
+5.-  DLS <br />
+6.-  DFBB <br />
+7.-  A* <br />
+8.-  IDA* <br />
+9.-  ID <br />
+10.- SA(Agente viajero) <br />
+11.- GA(aplicación) <br />
+12.- Murcielagos <br />
+13.- GSAT <br />
+14.- WALKSAT <br />
+15.- DPLL <br />
 
 #Lista de programas que ya estan listos para entregar
 
-13.- GSAT
-15.- DPLL
+13.- GSAT <br />
+15.- DPLL <br />
 
 #Lista de programas pendientes
 
-1.-  DFS
-2.-  BFS
-3.-  BDS
-4.-  GBFS
-5.-  DLS
-6.-  DFBB
-7.-  A*
-8.-  IDA*
-9.-  ID
-10.- SA(Agente viajero)
-11.- GA(aplicación)
-12.- Murcielagos
-14.- WALKSAT
+1.-  DFS <br />
+2.-  BFS <br />
+3.-  BDS <br />
+4.-  GBFS <br />
+5.-  DLS <br />
+6.-  DFBB <br />
+7.-  A* <br />
+8.-  IDA* <br />
+9.-  ID <br />
+10.- SA(Agente viajero) <br />
+11.- GA(aplicación) <br />
+12.- Murcielagos <br />
+14.- WALKSAT <br />
