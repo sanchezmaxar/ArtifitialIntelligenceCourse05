@@ -8,3 +8,7 @@ git clone https://github.com/sanchezmaxar/ArtifitialIntelligenceCourse05
 #subida una vez que el archivo "file.txt" este modificado
 
 git add "file.txt"
+git commit -m "Mi comentario"
+git push
+
+#listo
