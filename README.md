@@ -4,21 +4,21 @@ Este repositorio tiene como objetivo, juntar y organizar mejor los programas que
 
 #Lista de programas que se deberan entregar
 
-1.-  DFS
-2.-  BFS
-3.-  BDS
-4.-  GBFS
-5.-  DLS
-6.-  DFBB
-7.-  A*
-8.-  IDA*
-9.-  ID
-10.- SA(Agente viajero)
-11.- GA(aplicación)
-12.- Murcielagos
-13.- GSAT
-14.- WALKSAT
-15.- DPLL
+*1.-  DFS
+*2.-  BFS
+*3.-  BDS
+*4.-  GBFS
+*5.-  DLS
+*6.-  DFBB
+*7.-  A*
+*8.-  IDA*
+*9.-  ID
+*10.- SA(Agente viajero)
+*11.- GA(aplicación)
+*12.- Murcielagos
+*13.- GSAT
+*14.- WALKSAT
+*15.- DPLL
 
 #Lista de programas que ya estan listos para entregar
 
