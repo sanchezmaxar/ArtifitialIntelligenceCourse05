@@ -23,6 +23,7 @@ Este repositorio tiene como objetivo, juntar y organizar mejor los programas que
 #Lista de programas que ya estan listos para entregar
 
 13.- GSAT <br />
+14.- WALKSAT <br />
 15.- DPLL <br />
 
 #Lista de programas pendientes
@@ -39,4 +40,3 @@ Este repositorio tiene como objetivo, juntar y organizar mejor los programas que
 10.- SA(Agente viajero) <br />
 11.- GA(aplicación) <br />
 12.- Murcielagos <br />
-14.- WALKSAT <br />
