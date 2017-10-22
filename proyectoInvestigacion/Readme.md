@@ -1,16 +1,16 @@
 # Temas
 ### Enfoques
-GNP <br />
-PADO <br />
-LINEAL <br />
-STANDARD <br />
-CARTESIANO <br />
+1.- GNP <br />
+2.- PADO <br />
+3.- Lineal <br />
+4.- Standard <br />
+5.- Cartesiano <br />
  <br />
 ### Aplicaciones
-CONTROL <br />
-MODELOS MATEMÁTICOS <br />
-ARTE <br />
+1.- Control <br />
+2.- Modelos matemáticos <br />
+3.- Arte <br />
 ### Historia 
 ### Impacto
-SOCIAL <br />
-ECONOMICO <br />
+1.- Social <br />
+2.- Economico <br />
