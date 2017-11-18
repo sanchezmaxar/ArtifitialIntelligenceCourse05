@@ -14,4 +14,9 @@ def ruta(end):
         secuencia.append(end)
     secuencia.reverse()
     return list(secuencia)
-
+def profundidad(end):
+    p=1
+    while end.parent:
+        end = end.parent
+        p+=1
+    return p

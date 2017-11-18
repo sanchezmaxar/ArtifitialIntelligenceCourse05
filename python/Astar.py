@@ -6,12 +6,12 @@ Created on Sat Sep  2 12:39:57 2017
 @author: stan
 """
 import heapq
-from utils import ruta
+from utils import *
 
 from puzzle import *
 from manhattan import *
 
-class GBFS:
+class Astar:
     @staticmethod
     def search(origen,stop,heuristica):
         agenda = []
@@ -27,11 +27,11 @@ class GBFS:
             for hijo in nodo.expand():
                 if hijo not in expandidos:
                     heapq.heappush(agenda,\
-                                   (heuristica(hijo),hijo))
+                                   (heuristica(hijo)+profundidad(hijo),hijo))
 tablero = Puzzle()
 tablero = tablero.shuffle(100)
 print tablero
 stop =lambda x: x == Puzzle()
-print len(GBFS().search(tablero,\
+print len(Astar().search(tablero,\
     stop,\
     ManhattanDistance().distance_to_target))
