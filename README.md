@@ -22,6 +22,7 @@ Este repositorio tiene como objetivo, juntar y organizar mejor los programas que
 
 ### Lista de programas que ya estan listos para entregar
 
+2.-  BFS <br />
 13.- GSAT <br />
 14.- WALKSAT <br />
 15.- DPLL <br />
@@ -29,7 +30,6 @@ Este repositorio tiene como objetivo, juntar y organizar mejor los programas que
 ### Lista de programas pendientes
 
 1.-  DFS <br />
-2.-  BFS <br />
 3.-  BDS <br />
 4.-  GBFS <br />
 5.-  DLS <br />
