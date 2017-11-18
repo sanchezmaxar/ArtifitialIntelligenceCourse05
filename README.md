@@ -24,6 +24,9 @@ Este repositorio tiene como objetivo, juntar y organizar mejor los programas que
 
 1.-  DFS <br />
 2.-  BFS <br />
+4.-  GBFS <br />
+7.-  A* <br />
+9.-  ID <br />
 13.- GSAT <br />
 14.- WALKSAT <br />
 15.- DPLL <br />
@@ -31,12 +34,9 @@ Este repositorio tiene como objetivo, juntar y organizar mejor los programas que
 ### Lista de programas pendientes
 
 3.-  BDS <br />
-4.-  GBFS <br />
 5.-  DLS <br />
 6.-  DFBB <br />
-7.-  A* <br />
 8.-  IDA* <br />
-9.-  ID <br />
 10.- SA(Agente viajero) <br />
 11.- GA(aplicación) <br />
 12.- Murcielagos <br />
