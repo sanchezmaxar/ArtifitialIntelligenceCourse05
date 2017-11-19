@@ -19,17 +19,14 @@ class IDAstar:
             ac=0
             aux=0
             agenda = deque()
-            expandidos = set()
             agenda.appendleft(origen)
             while agenda:
                 nodo = agenda.popleft()
-                expandidos.add(nodo)
                 if(profundidad(nodo)<=frontera):
                     for hijo in nodo.expand():
                         if stop(hijo):
                             return ruta(hijo)
-                        if hijo not in expandidos:
-                            agenda.appendleft(hijo)
+                        agenda.appendleft(hijo)
                 x = profundidad(nodo)+heuristica(nodo)
                 if ac==0:
                     aux=x
