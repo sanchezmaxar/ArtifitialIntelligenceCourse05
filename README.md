@@ -40,3 +40,6 @@ Este repositorio tiene como objetivo, juntar y organizar mejor los programas que
 10.- SA(Agente viajero) <br />
 11.- GA(aplicación) <br />
 12.- Murcielagos <br />
+
+### Link presentaciones
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/lecture-notes/Lecture2Final.pdf
